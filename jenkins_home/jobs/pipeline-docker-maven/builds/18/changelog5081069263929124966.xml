@@ -1,0 +1,10 @@
+commit e6f4d831b0bb0202e16a89c4eda3fcc4ee20f2dc
+tree 93833306744a74beb43ce5639897180c05b67389
+parent dddbd2cf20b5881d79663005240835f62c1ae968
+author root <you@example.com> 2022-04-07 01:49:10 +0530
+committer root <you@example.com> 2022-04-07 01:49:10 +0530
+
+    CHANGES in ERROR mvn
+
+
+:100644 100644 32c8356d2a8ed36f20e061ce04dd3448ada3d017 82e666c710aef41e68b7c9243428c1e3d4346731 M	jenkinsfile

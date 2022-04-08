@@ -1,0 +1,23 @@
+Started by user [8mha:////4F9/q6ptHcYOpRwQTRORjD0cISQXmKM4ovaTL9/1A9wkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZu/dLi1CL9xJTczDwA+rnvwMAAAAA=[0mdhruv jhamb
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-aws
+[SSH] script:
+MYSQL_HOST="db_host"
+MYSQL_PASSWORD=**********
+DATABASE_NAME="testdb"
+AWS_BUCKET_NAME="jenkins-mysql-backup-dj"
+AWS_SECRET=**********
+
+/tmp/script.sh $MYSQL_HOST $MYSQL_PASSWORD $DATABASE_NAME $AWS_SECRET $AWS_BUCKET_NAME
+
+[SSH] executing...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+The user-provided path /tmp/db-20-39-45.sql does not exist.
+Uploading DB
+
+[SSH] completed
+[SSH] exit-status: 255
+
+Build step 'Execute shell script on remote host using ssh' marked build as failure
+Finished: FAILURE

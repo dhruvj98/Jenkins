@@ -1,0 +1,10 @@
+commit 548ca063b61a01b90cebb87168b793af9c76be87
+tree 652a7f5fd1e8948c177b1d8183bf814f8d3c9499
+parent e6f4d831b0bb0202e16a89c4eda3fcc4ee20f2dc
+author root <you@example.com> 2022-04-07 01:54:57 +0530
+committer root <you@example.com> 2022-04-07 01:54:57 +0530
+
+    NEW CHANGES
+
+
+:100644 100644 82e666c710aef41e68b7c9243428c1e3d4346731 81bcca653743fbbdd60a5415975b091706f83655 M	jenkinsfile

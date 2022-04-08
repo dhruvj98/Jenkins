@@ -1,0 +1,40 @@
+commit dddbd2cf20b5881d79663005240835f62c1ae968
+tree 8cbb668f68aeef4a745ea3d2ca1c3e8304e74b80
+parent a6c32a743c71a55df9dd5bf96b8cf3f379473422
+author root <you@example.com> 2022-04-06 19:23:33 +0530
+committer root <you@example.com> 2022-04-06 19:23:33 +0530
+
+    POST ACTIONS
+
+
+:100755 100755 793a94e759d0471d65b29474dd890d17c47041fc b962fd4afc240fcc1915bea40aac489ba8554676 M	jenkins/deploy/deploy.sh
+:100644 100644 fcca9184ea29d221fc0a2878c3e973d53466e8de 32c8356d2a8ed36f20e061ce04dd3448ada3d017 M	jenkinsfile
+commit a6c32a743c71a55df9dd5bf96b8cf3f379473422
+tree bf414bc808a9a783fe6dceb26dea31a1155b7ab4
+parent 76a538f3e619140397d740015fcd402529282a5a
+author root <you@example.com> 2022-04-06 19:09:35 +0530
+committer root <you@example.com> 2022-04-06 19:09:35 +0530
+
+    FIXES PATH
+
+
+:100755 100755 7c62a5e62cbd0766863aac48ab0644d2ed603f7e eb285079e6a0f8316c26ed1d28b1717cb4a45a24 M	jenkins/build/mvn.sh
+:100755 100755 a01fa6a8f46170986a16902aeb6a0fc26bc23704 b056956da472c14f5329994893b110fbe0d43774 M	jenkins/test/mvn.sh
+commit c578e379889554056d6dac5f11093cd79ba8bc49
+tree 4b825dc642cb6eb9a060e54bf8d69288fbee4904
+parent d5a69c96d7c060f9a86afebcc554610ef6d82292
+author Administrator <admin@example.com> 2022-04-06 12:24:00 +0000
+committer Administrator <admin@example.com> 2022-04-06 12:24:00 +0000
+
+    Delete README.md
+
+:100644 000000 fd661134755d5ebe8bbcfed9fef173f46e4a0dfd 0000000000000000000000000000000000000000 D	README.md
+commit d5a69c96d7c060f9a86afebcc554610ef6d82292
+tree dbf154d530b86f393ac32cf394ec28ebd0d214f9
+parent 
+author Administrator <admin@example.com> 2022-04-06 11:47:17 +0000
+committer Administrator <admin@example.com> 2022-04-06 11:47:17 +0000
+
+    Initial commit
+
+:000000 100644 0000000000000000000000000000000000000000 fd661134755d5ebe8bbcfed9fef173f46e4a0dfd A	README.md
